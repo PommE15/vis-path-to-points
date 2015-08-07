@@ -1,0 +1,23 @@
+svg {
+  width: 1200px;
+  height: 1200px;
+  transform: translate(-300px, -275px);
+}
+
+.path-origin {
+  fill: #eee;
+  stroke: transparent;
+  //stroke-width: 1px;
+}
+
+.path-test {
+  fill: transparent;
+  stroke: darkgrey;
+  stroke-width: 1px;
+}
+
+.circle-test {
+  fill: lightblue;
+  stroke: dimgrey;
+  stroke-width: 2px;
+}
